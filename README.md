@@ -2,6 +2,8 @@
 
 A Node.js MCP Server for capturing screenshots using Safari on macOS.
 
+<a href="https://glama.ai/mcp/servers/q6bgsw64aw"><img width="380" height="200" src="https://glama.ai/mcp/servers/q6bgsw64aw/badge" alt="Safari Screenshot Server MCP server" /></a>
+
 ## Features
 
 - Capture window screenshots at specific sizes
